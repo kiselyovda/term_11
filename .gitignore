@@ -352,7 +352,7 @@ cython_debug/
 
 # Word temporary
 ~$*.doc*
-*.docx
+*.doc*
 
 # Word Auto Backup File
 Backup of *.doc*
